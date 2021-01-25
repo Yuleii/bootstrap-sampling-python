@@ -1,1 +1,1 @@
-# bootstrap-sampling-python
+This notebook contains some python implementations of parametric and nonparametric bootstrap sampling. 
