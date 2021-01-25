@@ -1,1 +1,1 @@
-This notebook contains some python implementations of parametric and nonparametric bootstrap sampling. 
+This [notebook](https://github.com/Yuleii/bootstrap-sampling-python/blob/main/Bootstrap%20Sampling.ipynb) contains some python implementations of parametric and nonparametric bootstrap sampling. For more details, please refer to my blog post: [The Bootstrap Estimate of Standard Error](https://yuleii.github.io/2021/01/22/bootstrap.html).
